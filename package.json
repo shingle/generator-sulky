@@ -6,7 +6,7 @@
   "main": "app/index.js",
   "repository": "https://github.com/shingle/generator-sulky",
   "author": {
-    "name": "Yuhui",
+    "name": "shingle",
     "email": "",
     "url": "https://github.com/shingle/generator-sulky"
   },
