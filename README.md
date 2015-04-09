@@ -1,0 +1,2 @@
+# generator-sulky
+Yo generator
