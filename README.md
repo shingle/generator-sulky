@@ -1,4 +1,4 @@
-# generator-sulky [![Build Status](https://secure.travis-ci.org/YuHui/generator-sulky.png?branch=master)](https://travis-ci.org/YuHui/generator-sulky)
+# generator-sulky [![Build Status](https://secure.travis-ci.org/shingle/generator-sulky.png?branch=master)](https://travis-ci.org/shingle/generator-sulky)
 
 > [Yeoman](http://yeoman.io) generator
 
