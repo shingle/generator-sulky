@@ -2,9 +2,13 @@
  * Created by bang on 15/4/9.
  */
 module.exports = {
-  View: Ractive.extend({
+  ractive: Ractive.extend({
 
-    el: '#container'
+    el: '#container',
+    template: '#content-view',
+    data: {
+      hello: 'Base View'
+    }
 
   })
 };

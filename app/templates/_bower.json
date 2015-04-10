@@ -2,7 +2,13 @@
   "name": "package",
   "version": "0.0.0",
   "dependencies": {
-    "ractive": "^0.7.2"
+    "requirejs-text": "~2.0.14",
+    "jquery": "~1.11.1",
+    "underscore": "~1.8.3",
+    "requirejs": "~2.1.17",
+    "ractive": "^0.7.2",
+    "rv": "~0.1.8",
+    "page.js": "~1.6.1"
   }
 }
 
